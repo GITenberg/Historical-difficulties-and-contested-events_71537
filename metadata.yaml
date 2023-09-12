@@ -1,0 +1,32 @@
+_repo: Historical-difficulties-and-contested-events_71537
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Delepierre, Octave
+    alias: Delepierre, Joseph Octave
+    birthdate: 1802
+    deathdate: 1879
+    gutenberg_agent_id: '51846'
+    url: http://www.gutenberg.org/2009/agents/51846
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joseph_Octave_Delepierre
+    - https://fr.wikipedia.org/wiki/Octave_Delepierre
+description: ''
+gutenberg_issued: '2023-09-01'
+identifiers:
+  gutenberg: '71537'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044088049564
+pgterms:marc905: 20210605053131delepierre
+pgterms:marc906: '1868'
+pgterms:marc907: GB
+production_note: Alan, deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bJohn Murray, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Historical difficulties and contested events
+url: http://www.gutenberg.org/ebooks/71537
